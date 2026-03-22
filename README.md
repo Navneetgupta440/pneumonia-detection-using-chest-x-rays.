@@ -1,7 +1,9 @@
 🚀 Deep Learning-Based Pneumonia Detection System using CNN for Accurate Medical Image Classification.
 
-🔗 GitHub Repository:
-👉 https://github.com/Navneetgupta440/pneumonia-detection-using-chest-x-rays
+## 🔗 Live Project
+
+🌐 Live Demo (Hugging Face): https://huggingface.co/spaces/Navneet440Gupta/Pneumonia-Detection  
+📂 GitHub Repository: https://github.com/Navneetgupta440/pneumonia-detection-using-chest-x-rays
 
 📌 Overview
 
